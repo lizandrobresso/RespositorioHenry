@@ -4,3 +4,6 @@ So far so good, have done operators, conditionals and functions. Basic programmi
 
 New version for the module second test for working git version
 Module 03 ex finished
+Module 04 finished
+Module 05 finished
+
