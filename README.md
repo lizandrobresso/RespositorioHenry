@@ -6,4 +6,6 @@ New version for the module second test for working git version
 Module 03 ex finished
 Module 04 finished
 Module 05 finished
+Module 06 finished
+Module 07 finished
 
